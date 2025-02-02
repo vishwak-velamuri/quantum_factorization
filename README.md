@@ -4,4 +4,4 @@ Problem:
 The problem that we needed to solve was to figure out the code to factor semiprime integers. That is, when given a number N with two prime factors, we need to find those two prime factors.
 
 Implementation:
-In order to use Quantum Computing to acheive this, we will use Shor's algorithm to solve for the factors. We do use some pre-processing with classical computing, however the code is heavily reliant on the quantum computation aspect.
+In order to use Quantum Computing to achieve this, we will use Shor's algorithm to solve for the factors. We do use some pre-processing with classical computing, however the code is heavily reliant on the quantum computation aspect.
